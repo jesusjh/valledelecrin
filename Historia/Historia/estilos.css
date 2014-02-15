@@ -1,0 +1,6 @@
+header{background:#000;display:inline-block;margin:.1em;vertical-align:top;width:90%}
+nav{background:#808080;border-bottom:4px solid transparent;border-left:10px solid #000;border-top:4px solid transparent;border-bottom:4px solid transparent;border-right:10px solid #000;border-top:4px solid transparent;color:#fff;display:inline-block;font-size:1.2em;text-align:center;vertical-align:top;width:90%}
+nav ul{list-style:none;margin:0;padding:0 .8em}
+nav ul li{display:inline-block;margin:0 1.2em 0 0;vertical-align:top}
+nav ul li a{color:#fff;font-weight:normal;display:block;padding:0 0}
+nav ul li a:hover{color:#9224f4;border-bottom:3px solid #0058a5;margin:0;padding:0}
